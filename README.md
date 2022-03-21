@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lalitha Ramachandran</h1>
 <h3 align="center">Quality Specialist II</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lramac&label=Profile%20views&color=0e75b6&style=flat" alt="lramac" /> </p>
+<p align="left"> <img src="1.jpg" alt="lramac" /> </p>
 
 - 🔭 I’m currently working as Manual& Automation Tester [/Test Analyst at Infosys](Banking Domain -ADA ,Mobile testing)
 
