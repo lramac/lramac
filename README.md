@@ -1,9 +1,11 @@
+
+[!logo] (https://github.com/lramac/lramac/blob/main/Assets/NEW.png)
 <h1 align="center">Hi 👋, I'm Lalitha Ramachandran</h1>
 <h3 align="center">Quality Specialist II</h3>
 
-<p align="left"> <img src="1.jpg" alt="lramac" /> </p>
 
-- 🔭 I’m currently working as Manual& Automation Tester [/Test Analyst at Infosys](Banking Domain -ADA ,Mobile testing)
+
+- 🔭 I’m currently working as Manual& Automation Tester [Test Analyst at Infosys-Banking Domain ]
 
 - 🌱 I’m currently learning **React native using expo-snack editor**
 
