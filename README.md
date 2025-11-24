@@ -1,14 +1,14 @@
 
-![Working as Quality Specialist II](https://user-images.githubusercontent.com/36723594/159242091-d559431f-7552-46a6-a578-f4ec456056a8.png)
+![Working as Quality Engineering Lead ,Infosys Jan 2021 to present] (https://user-images.githubusercontent.com/36723594/159242091-d559431f-7552-46a6-a578-f4ec456056a8.png)
 
 
 **ABOUT ME**
 
-    Having 7+ years of experience in IT industry across various domains -Banking ,Education, E-publishing, Health, Retail .
+    Having 11+ years of experience in IT industry across various domains -Banking ,Education, E-publishing, Health, Retail .
 
 
-- 🔭 I’m currently working as  Manual & Automation Tester for Online Banking Project .
-- 🌱 I’m currently learning  React native using expo-snack editor. 
+- 🔭 I’m currently working as  Manual & Automation Tester for Online AI Banking Project in mobile device testing .
+- 🔭 Working on an AI/ML-based virtual assistant /chabot project, performing regression testing on tuned model inputs, validating conversational flows, call-to-action responses, L1/L2 hand-off behavior, and ensuring compliance with ADA standards. 
 - 👯 I’m looking to collaborate on  new endeavours and motivate myself by looking into new opportunities and learnings across organizations 
 - 💬 Ask me about  Software Testing 
 - 📫 How to reach me: lali.daisy@gmail.com 
